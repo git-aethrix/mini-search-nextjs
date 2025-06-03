@@ -65,7 +65,7 @@ src/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/dotku/you.com-mini-search.git
+git clone https://github.com/git-aethrix/mini-search-nextjs.git
 ```
 
 2. Install dependencies
